@@ -1,0 +1,73 @@
+
+body{
+    background-color: #312244;
+}
+.head{
+    border: 0.8vw solid white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #4d194d;
+    height: 8vw;
+    margin:2vw;
+    color: white;
+    font-size: 5vw;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.list{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.main{
+    height: 400px;
+    width: 270px;
+    background-color: #4d194d;
+    border: 0.5vw solid white;
+    margin:2vw;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    justify-content: center;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 270px 300px;
+}
+.heading{
+    font-size: 30px;
+    font-weight:700;
+}
+p{
+    padding-top: 275px;
+}
+.m2{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Radhe_film_poster.jpg/220px-Radhe_film_poster.jpg");
+}
+.m1{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/b/b6/Kick_%282014_film%29_Official_release_poster.jpg");
+}
+.m3{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/1/1f/Sultan_film_poster.jpg");
+}
+.m4{
+    background-image: url("https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-2463/portrait/1920x770_1093499123.jpg");
+}
+.m5{
+    background-image: url("https://img1.hotstarext.com/image/upload/f_auto,t_vl/sources/r1/cms/prod/old_images/vertical/MOVIE/4295/1000194295/1000194295-v");
+}
+.m6{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/7/73/Dabangg_poster.jpg");
+}
+.m7{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/9/93/DABANGG_2_Poster.jpg");
+}
+
+.m8{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/8/89/Dabangg_3_poster.jpg");
+}
+.m9{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Jai_Ho_%282013_Hindi_film%29_poster.jpg/220px-Jai_Ho_%282013_Hindi_film%29_poster.jpg");
+}
+.m10{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzQ4ZTc5ZTItYWRhNi00YTJjLWI4NGMtNjA0ODQ1ZDQxNzkyXkEyXkFqcGdeQXVyNjc4NjAxMzM@._V1_.jpg");
+}
